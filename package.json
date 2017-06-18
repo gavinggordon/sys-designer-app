@@ -1,0 +1,13 @@
+{
+	"name": "testApp",
+	"version": "0.0.1",
+	"description": "This is an application designed and run by the system designer application for iPhone.",
+	"main": "./testApp.json",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gavinggordon/sys-designer-app"
+	},
+	"dependencies": {
+		"system-runtime": "^1.9.14"
+	}
+}
